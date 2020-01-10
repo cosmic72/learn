@@ -1,1 +1,6 @@
-
+body {
+background-color: rgb(156, 212, 245);
+color:rgb(45, 253, 45);
+background-image: url('./fall.jpeg');
+background-size:cover;
+}
